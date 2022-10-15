@@ -1,4 +1,4 @@
-# rock-paper-scissor-trainer
+# rock-paper-scissors-trainer
 This SwiftUI project is a result of the first 'milestone' in "Hacking With Swift's 100 Days of SwiftUI".
 
 In this simple rock, paper, scissor game app, the user is shown a computer's choice of either rock, paper, or scissor. They are then told to choose either the winning or losing move to the computer's choice.
